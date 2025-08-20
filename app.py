@@ -11,4 +11,4 @@ image = Image.open("IvV2y.png")
 text = pytesseract.image_to_string(image)
 
 print("Extracted Text:")
-print(text
+print(text)
